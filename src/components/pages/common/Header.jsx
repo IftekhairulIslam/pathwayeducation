@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { logoDark, logoLight } from "./../../../utilities/imageSources";
 
 const Header = () => {
@@ -26,10 +27,10 @@ const Header = () => {
           <div className="column width-12 nav-bar-inner">
             <div className="logo">
               <div className="logo-inner">
-                <a href="index.html">
+                <a href="/">
                   <img src={logoDark} alt="Pathway Education" />
                 </a>
-                <a href="index.html">
+                <a href="/">
                   <img src={logoLight} alt="Pathway Education" />
                 </a>
               </div>
@@ -38,12 +39,12 @@ const Header = () => {
               <ul>
                 <li>
                   <div className="v-align-middle">
-                    <a
-                      href="#"
-                      className="button scroll-link small pull-right no-margin-bottom"
+                    <Link
+                      to="/contact"
+                      className="button scroll-link-OFF small pull-right no-margin-bottom"
                     >
                       Contact Us
-                    </a>
+                    </Link>
                   </div>
                 </li>
                 <li className="aux-navigation hide">

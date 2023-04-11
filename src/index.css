@@ -15,3 +15,25 @@ code {
 html {
   scroll-behavior: smooth;
 }
+
+/* Theme Override CSS */
+.bkg-theme {
+  background-color: #141543;
+  border-color: #141543;
+}
+.color-theme {
+  color: #141543;
+}
+.header-background .v-align-middle > .button:not(.nav-icon):hover,
+.header-background .dropdown > .button:not(.nav-icon):hover {
+  background-color: #141543;
+  border-color: transparent;
+  color: #fff;
+}
+.header .v-align-middle > .button:not(.nav-icon):hover,
+.header .dropdown > .button:not(.nav-icon):hover,
+.header .dropdown > .button.active:not(.nav-icon) {
+  background-color: #141543;
+  border-color: transparent;
+  color: #fff;
+}

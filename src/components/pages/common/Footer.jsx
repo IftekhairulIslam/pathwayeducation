@@ -6,15 +6,31 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-top two-columns-on-tablet">
         <div className="row flex">
-          <div className="column width-6">
+          <div className="column width-4">
             <div className="widget">
-              <h4 className="widget-title weight-light">
+              <a className="widget-title weight-light" href="/">
                 <img src={logoLight} alt="Pathway Eduction" />
-              </h4>
+              </a>
             </div>
           </div>
 
-          <div className="column width-6 right">
+          <div className="column width-4 center">
+            <div className="widget">
+              <h4 className="widget-title">Address</h4>
+              <p className="no-margin-bottom">
+                Ga – 14/1, (Progoti Sarani) Shahjadpur, <br />
+                Gulshan, Dhaka -1212.
+              </p>
+              <p className="no-margin-bottom">
+                +880 1323299761, +8801323299762
+              </p>
+              <p>
+                <a href="mailto:#">bangladesh@pathwayeducation.com.bd</a>
+              </p>
+            </div>
+          </div>
+
+          <div className="column width-4 right">
             <div className="widget">
               <h4 className="widget-title">More Links</h4>
               <ul>
@@ -73,9 +89,15 @@ const Footer = () => {
                 </li>
               </ul>
               <p className="copyright pull-left clear-float-on-mobile">
-                &copy; ThemeMountain. All Rights Reserved.{" "}
-                <a href="#">Terms &amp; Conditions</a> |{" "}
-                <a href="#">Cookie policy</a>
+                &copy; Pathway Education. All Rights Reserved.{" "}
+                <a href="#">Terms &amp; Conditions</a> | Developed by{" "}
+                <a
+                  href="https://iftekhairul.net"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  iftekhairul.net
+                </a>
               </p>
             </div>
           </div>

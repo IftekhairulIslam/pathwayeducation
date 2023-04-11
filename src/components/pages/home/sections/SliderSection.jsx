@@ -1,5 +1,6 @@
 import React from "react";
 import { slider1 } from "../../../../utilities/imageSources";
+import { Link } from "react-router-dom";
 
 const SliderSection = () => {
   return (
@@ -48,13 +49,13 @@ const SliderSection = () => {
                           always dreamed of and tailor it to your needs.
                         </p>
                         <a
-                          href="#getting-started"
+                          href="/contact"
                           data-offset="-60"
-                          className="tms-caption button scroll-link medium bkg-theme border-hover-white color-white color-hover-white text-uppercase"
+                          className="tms-caption button scroll-link-OFF medium bkg-theme border-hover-white color-white color-hover-white text-uppercase"
                           data-animate-in="preset:scaleOut;duration:900ms;delay:400ms;"
                           data-no-scale
                         >
-                          Discover Sartre
+                          Book An Appointment
                         </a>
                       </div>
                     </div>

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { about } from "./../../../../utilities/imageSources";
 
 const About = () => {
@@ -38,6 +39,7 @@ const About = () => {
                 study pathways. Our experienced and professional education
                 counsellors will be able to help you with your future career
                 plan.
+                <br />
               </p>
             </div>
           </div>
