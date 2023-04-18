@@ -1,11 +1,26 @@
 export const logo = require("./../resources/logo.png");
 export const logoLight = require("./../resources/logo-light.png");
 export const logoDark = require("./../resources/logo-dark.png");
+export const logoSqrDark = require("./../resources/logo-sqr-dark.png");
+export const logoSqrLight = require("./../resources/logo-sqr-light.png");
 
 /* Home */
 export const slider1 = require("./../resources/home/slider-1.jpg");
 export const about = require("./../resources/home/about-us.png");
 export const presence = require("./../resources/home/presence.png");
+export const profileAvatar = require("./../resources/home/profile-avatar.webp");
+
+/* Services */
+export const services = {
+  admission: require("./../resources/services/admission.png"),
+  assessment: require("./../resources/services/assessment.png"),
+  courseChange: require("./../resources/services/course_change.png"),
+  migration: require("./../resources/services/migration.png"),
+  healthInsurance: require("./../resources/services/health_insurance.png"),
+  preparation: require("./../resources/services/preparation.png"),
+  professional: require("./../resources/services/professional.png"),
+  rpl: require("./../resources/services/rpl.png"),
+};
 
 export const partners = {
   acs: require("./../resources/partners/ACS-logo-1.png"),

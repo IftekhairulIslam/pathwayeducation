@@ -1,6 +1,5 @@
 import React from "react";
 import { slider1 } from "../../../../utilities/imageSources";
-import { Link } from "react-router-dom";
 
 const SliderSection = () => {
   return (
@@ -28,7 +27,7 @@ const SliderSection = () => {
                       data-animate-in="preset:scaleOut;duration:900ms;delay:100ms;"
                       data-no-scale
                     >
-                      You Choose the Adventure
+                      Choose Your Educational Path
                     </h5>
                     <div className="clear"></div>
                     <h1
@@ -45,8 +44,9 @@ const SliderSection = () => {
                           data-animate-in="preset:slideInRightShort;duration:900ms;delay:200ms;"
                           data-no-scale
                         >
-                          We help you find the travel experience that you have
-                          always dreamed of and tailor it to your needs.
+                          We assist students in finding their academic and
+                          career pathways by providing personalized guidance and
+                          support.
                         </p>
                         <a
                           href="/contact"

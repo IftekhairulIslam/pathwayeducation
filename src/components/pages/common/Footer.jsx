@@ -18,14 +18,13 @@ const Footer = () => {
             <div className="widget">
               <h4 className="widget-title">Address</h4>
               <p className="no-margin-bottom">
-                Ga – 14/1, (Progoti Sarani) Shahjadpur, <br />
-                Gulshan, Dhaka -1212.
+                House-08 (Monico Qulthum), 5th Floor, Progoti Sarani, <br />
+                Baridhara (J Block), Notun Bazar, Dhaka-1212, <br />
+                Dhaka Division, Bangladesh.
               </p>
-              <p className="no-margin-bottom">
-                +880 1323299761, +8801323299762
-              </p>
+              <p className="no-margin-bottom">+8801323299761, +8801886177303</p>
               <p>
-                <a href="mailto:#">bangladesh@pathwayeducation.com.bd</a>
+                <a href="mailto:#">pathwayeducationbd@gmail.com</a>
               </p>
             </div>
           </div>
@@ -62,28 +61,28 @@ const Footer = () => {
           <div className="column width-12">
             <div className="footer-bottom-inner center">
               <ul className="social-list list-horizontal pull-right clear-float-on-mobile no-margin-bottom">
-                <li>
+                {/* <li>
                   <a href="#">
                     <span className="icon-twitter small"></span>
                   </a>
-                </li>
+                </li> */}
                 <li>
-                  <a href="#">
+                  <a href="https://www.facebook.com/pathwayeducation.com.bd">
                     <span className="icon-facebook small"></span>
                   </a>
                 </li>
-                <li>
+                {/* <li>
                   <a href="#">
                     <span className="icon-youtube small"></span>
                   </a>
-                </li>
-                <li>
+                </li> */}
+                {/* <li>
                   <a href="#">
                     <span className="icon-vimeo small"></span>
                   </a>
-                </li>
+                </li> */}
                 <li>
-                  <a href="#">
+                  <a href="https://www.instagram.com/pathwayeducationbd">
                     <span className="icon-instagram small"></span>
                   </a>
                 </li>

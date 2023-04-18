@@ -18,7 +18,7 @@ const Header = () => {
             <p>Melbourne | Sunshine | Bangladesh </p>
           </div>
           <div className="column width-6 nav-bar-inner right">
-            <p>Call Us +880 1323299761, +880 1323299762</p>
+            <p>Call Us +8801323299761, +8801886177303</p>
           </div>
         </div>
       </div>
@@ -58,10 +58,12 @@ const Header = () => {
               </ul>
             </nav>
             <nav className="navigation nav-block primary-navigation sub-menu-indicator nav-right no-margin-right">
+              {/* About Us */}
               <ul>
                 <li className="current">
-                  <a href="#about">About Us</a>
+                  <a href="/about">About Us</a>
                 </li>
+
                 {/* Addmission */}
                 <li className="contains-sub-menu">
                   <a href="">Admission</a>
@@ -77,6 +79,7 @@ const Header = () => {
                     </li>
                   </ul>
                 </li>
+
                 {/* Migration */}
                 <li className="contains-sub-menu">
                   <a href="">Migration</a>
@@ -86,6 +89,7 @@ const Header = () => {
                     </li>
                   </ul>
                 </li>
+
                 {/* Coaching */}
                 <li className="contains-sub-menu">
                   <a href="">Coaching</a>
@@ -104,10 +108,12 @@ const Header = () => {
                     </li>
                   </ul>
                 </li>
+
                 {/* Tourist & Travels */}
                 <li className="">
                   <a href="">Tourist & Travels</a>
                 </li>
+
                 {/* Other Services */}
                 <li className="">
                   <a href="">Other Services</a>
