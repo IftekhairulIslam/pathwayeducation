@@ -6,7 +6,8 @@ const Testimonials = () => {
     <div className="section-block">
       <div className="row full-width collapse">
         <div className="column width-12 center">
-          <h3 className="mb-50">Testimonial Slider</h3>
+          <h3>Reviews</h3>
+          <h1 className="mb-50">By Our Students</h1>
           <div className="tm-slider-container testimonial-slider" data-nav-dark>
             <ul className="tms-slides">
               <li className="tms-slide" data-image>
@@ -15,14 +16,19 @@ const Testimonials = () => {
                     <div className="column width-8 offset-2">
                       <blockquote className="avatar large center">
                         <span>
-                          <img src={profileAvatar} alt="" />
+                          <img
+                            data-src={profileAvatar}
+                            src={profileAvatar}
+                            alt=""
+                          />
                         </span>
                         <p>
-                          Incredible work! Best creative experience ever;
-                          timely, well executed and one hell of the result.
-                          Would recommend Sartre to anyone who is looking to
-                          revamp their identity.
-                          <cite>John K. Riley - Harvest Goods.</cite>
+                          I had no idea what I wanted to do after high school,
+                          but Pathway Education helped me explore different
+                          career paths and find the perfect fit for me. I am now
+                          studying computer science and couldn't be happier.
+                          Thank you, Pathway Education!
+                          <cite> Farhana Ahmed - 12/03/2023</cite>
                         </p>
                       </blockquote>
                     </div>
@@ -35,11 +41,20 @@ const Testimonials = () => {
                     <div className="column width-8 offset-2">
                       <blockquote className="avatar large center">
                         <span>
-                          <img src={profileAvatar} alt="" />
+                          <img
+                            data-src={profileAvatar}
+                            src={profileAvatar}
+                            alt=""
+                          />
                         </span>
                         <p>
-                          A five star agency without doubt. Hire them!
-                          <cite>John A. Adams - Repetition</cite>
+                          I was struggling with my coursework and feeling
+                          overwhelmed, but Pathway Education provided me with
+                          valuable academic support and helped me develop the
+                          study skills I needed to succeed. I highly recommend
+                          their services to any student looking for guidance and
+                          assistance.
+                          <cite>Hasan Mahmud - 26/03/2023</cite>
                         </p>
                       </blockquote>
                     </div>
@@ -52,13 +67,19 @@ const Testimonials = () => {
                     <div className="column width-8 offset-2">
                       <blockquote className="avatar large center">
                         <span>
-                          <img src={profileAvatar} alt="" />
+                          <img
+                            data-src={profileAvatar}
+                            src={profileAvatar}
+                            alt=""
+                          />
                         </span>
                         <p>
-                          Creativity redefined. These guys offer a unique
-                          approach to every aspect of design and the result is
-                          simply stunning.
-                          <cite>Jane Lariken - MUD Clothing.</cite>
+                          Pathway Education is the reason I was able to get
+                          accepted into my dream university. Their assistance
+                          with the application process and interview preparation
+                          was invaluable. I am grateful for their expertise and
+                          highly recommend their services.
+                          <cite>Nafisa Rahman - 24/04/2023</cite>
                         </p>
                       </blockquote>
                     </div>

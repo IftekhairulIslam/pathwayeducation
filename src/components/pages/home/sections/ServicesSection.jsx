@@ -3,21 +3,21 @@ import { services } from "./../../../../utilities/imageSources";
 
 const ServicesSection = () => {
   return (
-    <div class="section-block replicable-content bkg-grey-ultralight">
-      <div class="row">
-        <div class="column width-10 offset-1 center">
-          <h3 class="mb-50">Our Services</h3>
+    <div className="section-block replicable-content bkg-grey-ultralight">
+      <div className="row">
+        <div className="column width-10 offset-1 center">
+          <h3 className="mb-50">Our Services</h3>
         </div>
       </div>
-      <div class="row flex boxes">
-        <div class="column width-4">
+      <div className="row flex boxes">
+        <div className="column width-4">
           <div
-            class="feature-column box rounded xlarge bkg-theme color-white center horizon"
+            className="feature-column box rounded xlarge bkg-theme color-white center horizon"
             data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;"
             data-threshold="1"
           >
-            <div class="feature-text">
-              <div class="mb-20">
+            <div className="feature-text">
+              <div className="mb-20">
                 <img src={services.admission} alt="" />
               </div>
               <strong>Admission</strong>
@@ -28,14 +28,14 @@ const ServicesSection = () => {
             </div>
           </div>
         </div>
-        <div class="column width-4">
+        <div className="column width-4">
           <div
-            class="feature-column box rounded xlarge bkg-theme color-white center horizon"
+            className="feature-column box rounded xlarge bkg-theme color-white center horizon"
             data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;"
             data-threshold="1"
           >
-            <div class="feature-text">
-              <div class="mb-20">
+            <div className="feature-text">
+              <div className="mb-20">
                 <img src={services.migration} alt="" />
               </div>
               <strong>Migration</strong>
@@ -46,14 +46,14 @@ const ServicesSection = () => {
             </div>
           </div>
         </div>
-        <div class="column width-4">
+        <div className="column width-4">
           <div
-            class="feature-column box rounded xlarge bkg-theme color-white center horizon"
+            className="feature-column box rounded xlarge bkg-theme color-white center horizon"
             data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;"
             data-threshold="1"
           >
-            <div class="feature-text">
-              <div class="mb-20">
+            <div className="feature-text">
+              <div className="mb-20">
                 <img src={services.rpl} alt="" />
               </div>
               <strong>PRL</strong>
@@ -65,14 +65,14 @@ const ServicesSection = () => {
           </div>
         </div>
 
-        <div class="column width-4">
+        <div className="column width-4">
           <div
-            class="feature-column box rounded xlarge bkg-theme color-white center horizon"
+            className="feature-column box rounded xlarge bkg-theme color-white center horizon"
             data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;"
             data-threshold="1"
           >
-            <div class="feature-text">
-              <div class="mb-20">
+            <div className="feature-text">
+              <div className="mb-20">
                 <img src={services.preparation} alt="" />
               </div>
               <strong>PTE/IELTS</strong>
@@ -83,14 +83,14 @@ const ServicesSection = () => {
             </div>
           </div>
         </div>
-        <div class="column width-4">
+        <div className="column width-4">
           <div
-            class="feature-column box rounded xlarge bkg-theme color-white center horizon"
+            className="feature-column box rounded xlarge bkg-theme color-white center horizon"
             data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;"
             data-threshold="1"
           >
-            <div class="feature-text">
-              <div class="mb-20">
+            <div className="feature-text">
+              <div className="mb-20">
                 <img src={services.courseChange} alt="" />
               </div>
               <strong>Course Change</strong>
@@ -100,14 +100,14 @@ const ServicesSection = () => {
             </div>
           </div>
         </div>
-        <div class="column width-4">
+        <div className="column width-4">
           <div
-            class="feature-column box rounded xlarge bkg-theme color-white center horizon"
+            className="feature-column box rounded xlarge bkg-theme color-white center horizon"
             data-animate-in="preset:slideInUpShort;duration:1000ms;delay:200ms;"
             data-threshold="1"
           >
-            <div class="feature-text">
-              <div class="mb-20">
+            <div className="feature-text">
+              <div className="mb-20">
                 <img src={services.professional} alt="" />
               </div>
               <strong>Professional Year</strong>

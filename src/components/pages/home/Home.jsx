@@ -1,10 +1,10 @@
 import React from "react";
-import AboutSection from "./sections/AboutSection";
-import OurPresenceSection from "./sections/OurPresenceSection";
-import Partners from "./sections/Partners";
-import ServicesSection from "./sections/ServicesSection";
 import SliderSection from "./sections/SliderSection";
+import OurPresenceSection from "./sections/OurPresenceSection";
+import AboutSection from "./sections/AboutSection";
+import ServicesSection from "./sections/ServicesSection";
 import Testimonials from "./sections/Testimonials";
+import Partners from "./sections/Partners";
 
 const Home = () => {
   return (

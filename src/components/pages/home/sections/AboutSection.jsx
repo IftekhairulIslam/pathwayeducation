@@ -1,5 +1,5 @@
 import React from "react";
-import { about, logoSqrLight } from "./../../../../utilities/imageSources";
+import { logoSqrLight } from "./../../../../utilities/imageSources";
 
 const AboutSection = () => {
   return (
