@@ -5,7 +5,7 @@ const AboutSection = () => {
   return (
     <section className="section-block bkg-charcoal feature-2" id="about">
       <div className="row flex">
-        <div className="column width-6 push-5 offset-1">
+        <div className="column width-6 push-6">
           <div className="feature-image mb-mobile-50">
             <div
               className="feature-image-inner center-on-mobile horizon"
@@ -20,7 +20,7 @@ const AboutSection = () => {
             </div>
           </div>
         </div>
-        <div className="column width-5 pull-7">
+        <div className="column width-6 pull-6">
           <div className="feature-content">
             <div
               className="feature-content-inner horizon"

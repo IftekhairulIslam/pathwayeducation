@@ -3,7 +3,7 @@ import React from "react";
 const Contact = () => {
   return (
     <div className="content clearfix">
-      <div className="section-block mt-30 mb-50 pb-0 bkg-theme color-white replicable-content">
+      <div className="section-block pb-0 bkg-theme color-white replicable-content">
         <div className="row mt-40 mb-40">
           <div className="column width-8 offset-2 center">
             <h1>Contact Us</h1>
@@ -11,7 +11,7 @@ const Contact = () => {
         </div>
       </div>
 
-      <section className="section-block replicable-content contact-2 no-padding-top">
+      <section className="section-block replicable-content contact-2">
         <div className="row">
           <div className="column width-8 offset-2 center">
             <div className="contact-form-container">

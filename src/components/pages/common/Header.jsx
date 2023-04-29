@@ -1,27 +1,25 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import { logoDark, logoLight } from "./../../../utilities/imageSources";
+import HeaderInnerTop from "./HeaderInnerTop";
+import Navigation from "./Navigation";
 
 const Header = () => {
+  const location = useLocation();
+  const isHomePage = ["/"].includes(location.pathname);
   return (
     <header
-      className="header header-absolute header-fixed-on-mobile header-transparent"
+      className={
+        "header header-absolute header-fixed-on-mobile" +
+        (isHomePage ? " header-transparent" : "")
+      }
       data-helper-in-threshold="200"
       data-helper-out-threshold="500"
       data-sticky-threshold="200"
       data-bkg-threshold="100"
       data-compact-threshold="100"
     >
-      <div className="header-inner-top">
-        <div className="row nav-bar">
-          <div className="column width-6 nav-bar-inner left">
-            <p>Melbourne | Sunshine | Bangladesh </p>
-          </div>
-          <div className="column width-6 nav-bar-inner right">
-            <p>Call Us +8801323299761, +8801886177303</p>
-          </div>
-        </div>
-      </div>
+      {isHomePage && <HeaderInnerTop />}
       <div className="header-inner">
         <div className="row nav-bar">
           <div className="column width-12 nav-bar-inner">
@@ -57,69 +55,7 @@ const Header = () => {
                 </li>
               </ul>
             </nav>
-            <nav className="navigation nav-block primary-navigation sub-menu-indicator nav-right no-margin-right">
-              {/* About Us */}
-              <ul>
-                <li className="current">
-                  <a href="/about">About Us</a>
-                </li>
-
-                {/* Addmission */}
-                <li className="contains-sub-menu">
-                  <a href="">Admission</a>
-                  <ul className="sub-menu">
-                    <li>
-                      <a href="">Study In Australia</a>
-                    </li>
-                    <li>
-                      <a href="">Study In London</a>
-                    </li>
-                    <li>
-                      <a href="">Study In USA</a>
-                    </li>
-                  </ul>
-                </li>
-
-                {/* Migration */}
-                <li className="contains-sub-menu">
-                  <a href="">Migration</a>
-                  <ul className="sub-menu">
-                    <li>
-                      <a href="">All Kinds Of Visas</a>
-                    </li>
-                  </ul>
-                </li>
-
-                {/* Coaching */}
-                <li className="contains-sub-menu">
-                  <a href="">Coaching</a>
-                  <ul className="sub-menu">
-                    <li>
-                      <a href="">IELTS</a>
-                    </li>
-                    <li>
-                      <a href="">PTE</a>
-                    </li>
-                    <li>
-                      <a href="">Spoken English</a>
-                    </li>
-                    <li>
-                      <a href="">Japanese Language</a>
-                    </li>
-                  </ul>
-                </li>
-
-                {/* Tourist & Travels */}
-                <li className="">
-                  <a href="">Tourist & Travels</a>
-                </li>
-
-                {/* Other Services */}
-                <li className="">
-                  <a href="">Other Services</a>
-                </li>
-              </ul>
-            </nav>
+            <Navigation />
           </div>
         </div>
       </div>

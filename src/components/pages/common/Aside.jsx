@@ -1,4 +1,5 @@
 import React from "react";
+import Navigation from "./Navigation";
 
 const Aside = () => {
   //Side Navigation Menu
@@ -17,75 +18,7 @@ const Aside = () => {
               </a>
             </div>
           </div>
-          <nav className="side-navigation">
-            {/* About Us */}
-            <ul>
-              <li className="current">
-                <a href="/about">About Us</a>
-              </li>
-
-              {/* Addmission */}
-              <li>
-                <a href="#" className="contains-sub-menu">
-                  Admission
-                </a>
-                <ul className="sub-menu">
-                  <li>
-                    <a href="">Study In Australia</a>
-                  </li>
-                  <li>
-                    <a href="">Study In London</a>
-                  </li>
-                  <li>
-                    <a href="">Study In USA</a>
-                  </li>
-                </ul>
-              </li>
-
-              {/* Migration */}
-              <li>
-                <a href="#" className="contains-sub-menu">
-                  Migration
-                </a>
-                <ul className="sub-menu">
-                  <li>
-                    <a href="">All Kinds Of Visas</a>
-                  </li>
-                </ul>
-              </li>
-
-              {/* Coaching */}
-              <li>
-                <a href="#" className="contains-sub-menu">
-                  Coaching
-                </a>
-                <ul className="sub-menu">
-                  <li>
-                    <a href="">IELTS</a>
-                  </li>
-                  <li>
-                    <a href="">PTE</a>
-                  </li>
-                  <li>
-                    <a href="">Spoken English</a>
-                  </li>
-                  <li>
-                    <a href="">Japanese Language</a>
-                  </li>
-                </ul>
-              </li>
-
-              {/* Tourist & Travels */}
-              <li className="">
-                <a href="">Tourist & Travels</a>
-              </li>
-
-              {/* Other Services */}
-              <li className="">
-                <a href="">Other Services</a>
-              </li>
-            </ul>
-          </nav>
+          <Navigation isInAside={true} />
           <div className="side-navigation-footer">
             <ul className="social-list list-horizontal">
               <li>
