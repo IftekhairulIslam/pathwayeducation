@@ -16,6 +16,7 @@ const Navigation = ({ isInAside = false }) => {
           subMenus={[
             { title: "Study In Australia", link: "/admission-australia" },
             { title: "Study In London", link: "/admission-london" },
+            { title: "Study In Canada", link: "/admission-canada" },
             { title: "Study In USA", link: "/admission-usa" },
           ]}
           isInAside={isInAside}

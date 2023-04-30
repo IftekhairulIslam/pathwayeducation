@@ -32,11 +32,22 @@ const AboutSection = () => {
                 Guiding Students towards Successful Careers
               </p>
               <p className="color-grey-light">
-                For a long time, students have been served by Pathway Education.
-                Numerous students have discovered their career path and
-                established a successful career in their desired field by
-                relying on our experience and knowledge. We provide through
-                partnerships with numerous colleges and universities.
+                At Pathway Education, we believe that every student has the
+                potential to succeed and achieve their dreams. Our team of
+                experienced and dedicated professionals strive to provide the
+                best possible support and guidance to students seeking higher
+                education. We understand that choosing the right college or
+                university can be a daunting task, and that is why we have
+                established partnerships with some of the best colleges and
+                universities across the globe. Through these partnerships, we
+                are able to offer our students a wide range of educational
+                opportunities in various fields of study. Our goal is to help
+                students find the right path and provide them with the necessary
+                tools and resources to reach their full potential. Whether you
+                are a high school student looking for guidance in choosing the
+                right college, or a college student seeking help with career
+                planning and job placement, we are here to help you every step
+                of the way.
               </p>
             </div>
           </div>

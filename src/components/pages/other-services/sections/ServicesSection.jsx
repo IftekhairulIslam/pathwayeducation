@@ -1,14 +1,9 @@
 import React from "react";
-import { services } from "./../../../../utilities/imageSources";
+import { services } from "../../../../utilities/imageSources";
 
 const ServicesSection = () => {
   return (
-    <div className="section-block replicable-content bkg-grey-ultralight">
-      <div className="row">
-        <div className="column width-10 offset-1 center">
-          <h3 className="mb-50">Our Services</h3>
-        </div>
-      </div>
+    <div className="section-block replicable-content">
       <div className="row flex boxes">
         <div className="column width-4">
           <div

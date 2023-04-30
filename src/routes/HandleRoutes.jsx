@@ -16,6 +16,7 @@ import Migration from "./../components/pages/migration/Migration";
 import Visas from "./../components/pages/migration/Visas";
 import Travels from "./../components/pages/travels/Travels";
 import OtherServices from "./../components/pages/other-services/OtherServices";
+import Canada from "./../components/pages/admission/Canada";
 
 const HandleRoutes = () => {
   return (
@@ -29,6 +30,7 @@ const HandleRoutes = () => {
           <Route path="admission" element={<Admission />}></Route>
           <Route path="admission-australia" element={<Australia />}></Route>
           <Route path="admission-london" element={<London />}></Route>
+          <Route path="admission-canada" element={<Canada />}></Route>
           <Route path="admission-usa" element={<USA />}></Route>
 
           <Route path="migration" element={<Migration />}></Route>

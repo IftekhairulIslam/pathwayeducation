@@ -14,43 +14,37 @@ const Visas = () => {
               >
                 <h2 className="color-theme">Visas</h2>
                 <p className="lead color-black">
-                  Welcome to Pathway Education!
+                  Comprehensive Visa Processing Services Tailored to Your Unique
+                  Needs with Pathway Education
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we believe in providing exceptional
-                  services to students and educational institutions. Our mission
-                  is to assume leadership in the student consultancy sector and
-                  set an example for others to follow. We are dedicated to
-                  offering the student community and educational institutions
-                  comprehensive, skilled, and professional support to sustain
-                  the excellence of higher education.
+                  At Pathway Education, we offer a comprehensive range of visa
+                  processing services for individuals seeking to migrate to
+                  Australia. Our team of registered migration agents and
+                  educational consultants specialize in providing assistance
+                  with various types of visas, including student visas, skilled
+                  migration visas, family visas, and business visas, among
+                  others.
                 </p>
                 <p className="color-grey">
-                  We understand that choosing a career path and finding the
-                  right educational institution can be a daunting task. That's
-                  why our team of experts is here to help guide you every step
-                  of the way. Our services include career counseling, academic
-                  advising, and assistance with university admissions.
+                  We understand that the visa application process can be complex
+                  and confusing, which is why we work closely with our clients
+                  to ensure that their applications are complete, accurate, and
+                  comply with all requirements. Our team is highly knowledgeable
+                  about the latest immigration laws and regulations, ensuring
+                  that our clients receive the most up-to-date advice and
+                  guidance.
                 </p>
                 <p className="color-grey">
-                  We take pride in our personalized approach to every student's
-                  needs. We work closely with our clients to understand their
-                  goals, strengths, and challenges to provide tailored guidance
-                  and support. Our team consists of highly trained and
-                  experienced professionals who are committed to helping you
-                  achieve your academic and career goals.
+                  We take pride in providing personalized service and tailored
+                  solutions to meet the unique needs of each client. Whether you
+                  are a student looking to study in Australia or a business
+                  professional seeking to establish a presence in the country,
+                  we have the expertise to help you achieve your goals.
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we value integrity, professionalism, and
-                  excellence. We are committed to maintaining the highest
-                  standards in all our services and interactions with clients.
-                  We believe in building long-lasting relationships with our
-                  clients based on trust, respect, and mutual understanding.
-                </p>
-                <p className="color-grey">
-                  Thank you for considering Pathway Education for your academic
-                  and career needs. We look forward to helping you achieve your
-                  full potential.
+                  Choose Pathway Education for your visa processing needs and
+                  let us guide you through the process with ease and efficiency.
                 </p>
               </div>
             </div>

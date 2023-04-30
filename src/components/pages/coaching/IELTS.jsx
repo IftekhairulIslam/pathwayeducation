@@ -14,43 +14,47 @@ const IELTS = () => {
               >
                 <h2 className="color-theme">IELTS</h2>
                 <p className="lead color-black">
-                  Welcome to Pathway Education!
+                  Expert IELTS Coaching and Training Services at Pathway
+                  Education
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we believe in providing exceptional
-                  services to students and educational institutions. Our mission
-                  is to assume leadership in the student consultancy sector and
-                  set an example for others to follow. We are dedicated to
-                  offering the student community and educational institutions
-                  comprehensive, skilled, and professional support to sustain
-                  the excellence of higher education.
+                  At Pathway Education, we offer expert coaching and training
+                  services for the International English Language Testing System
+                  (IELTS), one of the most widely recognized language
+                  proficiency tests worldwide. Our IELTS coaching program is
+                  designed to help students develop the necessary language
+                  skills and strategies to achieve their desired scores in the
+                  exam.
                 </p>
                 <p className="color-grey">
-                  We understand that choosing a career path and finding the
-                  right educational institution can be a daunting task. That's
-                  why our team of experts is here to help guide you every step
-                  of the way. Our services include career counseling, academic
-                  advising, and assistance with university admissions.
+                  Our team of experienced trainers is highly skilled in
+                  providing personalized attention and guidance to each student,
+                  identifying their strengths and weaknesses and developing an
+                  individualized study plan accordingly. We provide
+                  comprehensive training materials, including practice tests and
+                  mock exams, to help our students prepare for each section of
+                  the IELTS exam, including Listening, Reading, Writing, and
+                  Speaking.
                 </p>
                 <p className="color-grey">
-                  We take pride in our personalized approach to every student's
-                  needs. We work closely with our clients to understand their
-                  goals, strengths, and challenges to provide tailored guidance
-                  and support. Our team consists of highly trained and
-                  experienced professionals who are committed to helping you
-                  achieve your academic and career goals.
+                  We also offer one-on-one sessions with our trainers to help
+                  students improve their weak areas and receive personalized
+                  feedback on their performance. Our trainers are highly
+                  experienced in providing effective strategies and techniques
+                  to help students improve their language skills and perform
+                  better in the exam.
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we value integrity, professionalism, and
-                  excellence. We are committed to maintaining the highest
-                  standards in all our services and interactions with clients.
-                  We believe in building long-lasting relationships with our
-                  clients based on trust, respect, and mutual understanding.
+                  Our IELTS coaching program is suitable for students of all
+                  levels, from beginner to advanced. We offer flexible
+                  scheduling options to accommodate our students' busy
+                  schedules, and our coaching services are available both online
+                  and in-person.
                 </p>
                 <p className="color-grey">
-                  Thank you for considering Pathway Education for your academic
-                  and career needs. We look forward to helping you achieve your
-                  full potential.
+                  Choose Pathway Education for your IELTS coaching needs and let
+                  our expert trainers help you achieve your desired scores in
+                  the exam.
                 </p>
               </div>
             </div>

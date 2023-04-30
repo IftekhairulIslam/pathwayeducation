@@ -34,22 +34,22 @@ const Footer = () => {
               <h4 className="widget-title">More Links</h4>
               <ul>
                 <li>
-                  <a href="#">About Us</a>
+                  <a href="about">About Us</a>
                 </li>
                 <li>
-                  <a href="#">Admission</a>
+                  <a href="admission">Admission</a>
                 </li>
                 <li>
-                  <a href="#">Migration</a>
+                  <a href="migration">Migration</a>
                 </li>
                 <li>
-                  <a href="#">Coaching</a>
+                  <a href="coaching">Coaching</a>
                 </li>
                 <li>
-                  <a href="#">Tourist & Travels</a>
+                  <a href="travels">Tourist & Travels</a>
                 </li>
                 <li>
-                  <a href="#">Contact Us</a>
+                  <a href="contact">Contact Us</a>
                 </li>
               </ul>
             </div>

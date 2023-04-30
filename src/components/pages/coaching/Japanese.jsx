@@ -14,43 +14,51 @@ const Japanese = () => {
               >
                 <h2 className="color-theme">Japanese Language</h2>
                 <p className="lead color-black">
-                  Welcome to Pathway Education!
+                  Learn Japanese with Pathway Education: Comprehensive Language
+                  Program for All Levels
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we believe in providing exceptional
-                  services to students and educational institutions. Our mission
-                  is to assume leadership in the student consultancy sector and
-                  set an example for others to follow. We are dedicated to
-                  offering the student community and educational institutions
-                  comprehensive, skilled, and professional support to sustain
-                  the excellence of higher education.
+                  At Pathway Education, we provide a comprehensive Japanese
+                  language program for students of all levels, from beginner to
+                  advanced. Our program is designed to help students develop
+                  their language proficiency and cultural understanding of Japan
+                  through interactive and engaging activities.
                 </p>
                 <p className="color-grey">
-                  We understand that choosing a career path and finding the
-                  right educational institution can be a daunting task. That's
-                  why our team of experts is here to help guide you every step
-                  of the way. Our services include career counseling, academic
-                  advising, and assistance with university admissions.
+                  Our team of experienced Japanese language trainers are native
+                  speakers and have extensive experience teaching the language
+                  to both local and international students. We provide
+                  personalized attention to each student, identifying their
+                  strengths and weaknesses and developing an individualized
+                  study plan accordingly.
                 </p>
                 <p className="color-grey">
-                  We take pride in our personalized approach to every student's
-                  needs. We work closely with our clients to understand their
-                  goals, strengths, and challenges to provide tailored guidance
-                  and support. Our team consists of highly trained and
-                  experienced professionals who are committed to helping you
-                  achieve your academic and career goals.
+                  Our Japanese language program focuses on developing students'
+                  ability to read, write, listen, and speak in Japanese. We use
+                  a communicative approach that emphasizes real-life situations,
+                  allowing students to practice and use the language in
+                  practical settings.
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we value integrity, professionalism, and
-                  excellence. We are committed to maintaining the highest
-                  standards in all our services and interactions with clients.
-                  We believe in building long-lasting relationships with our
-                  clients based on trust, respect, and mutual understanding.
+                  Our program includes a range of materials, including
+                  textbooks, audio and video resources, and authentic materials,
+                  such as Japanese newspapers and magazines, to help students
+                  develop their language skills. We also offer cultural
+                  activities, such as Japanese calligraphy and tea ceremonies,
+                  to help students deepen their cultural understanding of Japan.
                 </p>
                 <p className="color-grey">
-                  Thank you for considering Pathway Education for your academic
-                  and career needs. We look forward to helping you achieve your
-                  full potential.
+                  Our Japanese language program is suitable for anyone looking
+                  to learn the language, whether for academic, professional, or
+                  personal purposes. We offer flexible scheduling options to
+                  accommodate our students' busy schedules, and our training
+                  services are available both online and in-person.
+                </p>
+                <p className="color-grey">
+                  Choose Pathway Education for your Japanese language training
+                  needs and let our expert trainers help you develop the skills
+                  and knowledge to communicate effectively in Japanese and
+                  deepen your cultural understanding of Japan.
                 </p>
               </div>
             </div>

@@ -14,43 +14,45 @@ const English = () => {
               >
                 <h2 className="color-theme">Spoken English</h2>
                 <p className="lead color-black">
-                  Welcome to Pathway Education!
+                  Enhance Your Communication Skills with Pathway Education's
+                  Spoken English Training Program
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we believe in providing exceptional
-                  services to students and educational institutions. Our mission
-                  is to assume leadership in the student consultancy sector and
-                  set an example for others to follow. We are dedicated to
-                  offering the student community and educational institutions
-                  comprehensive, skilled, and professional support to sustain
-                  the excellence of higher education.
+                  At Pathway Education, we offer comprehensive spoken English
+                  training services for individuals looking to improve their
+                  communication skills in English. Our spoken English program is
+                  designed to help students develop their fluency, accuracy, and
+                  confidence in spoken English through interactive and engaging
+                  activities.
                 </p>
                 <p className="color-grey">
-                  We understand that choosing a career path and finding the
-                  right educational institution can be a daunting task. That's
-                  why our team of experts is here to help guide you every step
-                  of the way. Our services include career counseling, academic
-                  advising, and assistance with university admissions.
+                  Our team of experienced trainers provides personalized
+                  attention and guidance to each student, identifying their
+                  strengths and weaknesses and developing an individualized
+                  study plan accordingly. We focus on developing students'
+                  ability to speak English fluently and effectively in a variety
+                  of situations, including in academic, social, and professional
+                  settings.
                 </p>
                 <p className="color-grey">
-                  We take pride in our personalized approach to every student's
-                  needs. We work closely with our clients to understand their
-                  goals, strengths, and challenges to provide tailored guidance
-                  and support. Our team consists of highly trained and
-                  experienced professionals who are committed to helping you
-                  achieve your academic and career goals.
+                  We provide a range of materials, including audio and video
+                  resources, to help students practice their listening and
+                  speaking skills. We also offer one-on-one sessions with our
+                  trainers to provide personalized feedback on students'
+                  performance and help them improve their pronunciation and
+                  intonation.
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we value integrity, professionalism, and
-                  excellence. We are committed to maintaining the highest
-                  standards in all our services and interactions with clients.
-                  We believe in building long-lasting relationships with our
-                  clients based on trust, respect, and mutual understanding.
+                  Our spoken English program is suitable for students of all
+                  levels, from beginner to advanced. We offer flexible
+                  scheduling options to accommodate our students' busy
+                  schedules, and our training services are available both online
+                  and in-person.
                 </p>
                 <p className="color-grey">
-                  Thank you for considering Pathway Education for your academic
-                  and career needs. We look forward to helping you achieve your
-                  full potential.
+                  Choose Pathway Education for your spoken English training
+                  needs and let our expert trainers help you develop the skills
+                  and confidence to communicate effectively in English.
                 </p>
               </div>
             </div>

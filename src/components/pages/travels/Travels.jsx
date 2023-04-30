@@ -14,43 +14,47 @@ const Travels = () => {
               >
                 <h2 className="color-theme">Travels</h2>
                 <p className="lead color-black">
-                  Welcome to Pathway Education!
+                  Explore the World with Pathway Education's Travel Services
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we believe in providing exceptional
-                  services to students and educational institutions. Our mission
-                  is to assume leadership in the student consultancy sector and
-                  set an example for others to follow. We are dedicated to
-                  offering the student community and educational institutions
-                  comprehensive, skilled, and professional support to sustain
-                  the excellence of higher education.
+                  At Pathway Education, we understand that travel is an
+                  essential part of life and can provide valuable learning
+                  experiences. That's why we offer travel services that cater to
+                  a variety of needs, including student tours, family vacations,
+                  and solo trips. Our travel services are designed to provide
+                  you with a hassle-free experience that allows you to focus on
+                  creating lasting memories.
                 </p>
                 <p className="color-grey">
-                  We understand that choosing a career path and finding the
-                  right educational institution can be a daunting task. That's
-                  why our team of experts is here to help guide you every step
-                  of the way. Our services include career counseling, academic
-                  advising, and assistance with university admissions.
+                  Whether you want to explore the ancient ruins of Rome, hike
+                  the majestic mountains of New Zealand, or relax on the
+                  pristine beaches of Thailand, we have the expertise and
+                  resources to help you plan the perfect trip. Our team of
+                  experienced travel consultants can assist you in creating
+                  customized itineraries that cater to your interests, budget,
+                  and time constraints.
                 </p>
                 <p className="color-grey">
-                  We take pride in our personalized approach to every student's
-                  needs. We work closely with our clients to understand their
-                  goals, strengths, and challenges to provide tailored guidance
-                  and support. Our team consists of highly trained and
-                  experienced professionals who are committed to helping you
-                  achieve your academic and career goals.
+                  We work with a network of trusted partners, including
+                  airlines, hotels, and local tour operators, to ensure that you
+                  receive the best deals and experiences. Our travel packages
+                  include flights, accommodation, transportation, and
+                  activities, allowing you to enjoy a seamless and stress-free
+                  vacation.
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we value integrity, professionalism, and
-                  excellence. We are committed to maintaining the highest
-                  standards in all our services and interactions with clients.
-                  We believe in building long-lasting relationships with our
-                  clients based on trust, respect, and mutual understanding.
+                  In addition to our standard travel services, we also offer
+                  educational tours that provide unique learning opportunities
+                  for students. These tours include visits to cultural
+                  landmarks, historical sites, and educational institutions,
+                  allowing students to gain a deeper understanding of the world
+                  around them.
                 </p>
                 <p className="color-grey">
-                  Thank you for considering Pathway Education for your academic
-                  and career needs. We look forward to helping you achieve your
-                  full potential.
+                  At Pathway Education, we believe that travel is not only a
+                  means of relaxation but also a way to expand your knowledge
+                  and worldview. Let us help you plan your next adventure and
+                  discover the wonders of the world.
                 </p>
               </div>
             </div>

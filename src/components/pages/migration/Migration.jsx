@@ -14,43 +14,28 @@ const Migration = () => {
               >
                 <h2 className="color-theme">Migration</h2>
                 <p className="lead color-black">
-                  Welcome to Pathway Education!
+                  Effortlessly Achieve Your Dream of Moving to Australia with
+                  Pathway Education's Expert Migration Services
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we believe in providing exceptional
-                  services to students and educational institutions. Our mission
-                  is to assume leadership in the student consultancy sector and
-                  set an example for others to follow. We are dedicated to
-                  offering the student community and educational institutions
-                  comprehensive, skilled, and professional support to sustain
-                  the excellence of higher education.
+                  Are you dreaming of a future in Australia, or have you secured
+                  a job opportunity in an Australian company and are now waiting
+                  for your visa to be approved? If so, it is highly recommended
+                  that you connect with a registered migration services agent in
+                  Melbourne who is well-versed in the rules, regulations, and
+                  procedures and can assist you with effortless visa and
+                  migration processing.
                 </p>
                 <p className="color-grey">
-                  We understand that choosing a career path and finding the
-                  right educational institution can be a daunting task. That's
-                  why our team of experts is here to help guide you every step
-                  of the way. Our services include career counseling, academic
-                  advising, and assistance with university admissions.
-                </p>
-                <p className="color-grey">
-                  We take pride in our personalized approach to every student's
-                  needs. We work closely with our clients to understand their
-                  goals, strengths, and challenges to provide tailored guidance
-                  and support. Our team consists of highly trained and
-                  experienced professionals who are committed to helping you
-                  achieve your academic and career goals.
-                </p>
-                <p className="color-grey">
-                  At Pathway Education, we value integrity, professionalism, and
-                  excellence. We are committed to maintaining the highest
-                  standards in all our services and interactions with clients.
-                  We believe in building long-lasting relationships with our
-                  clients based on trust, respect, and mutual understanding.
-                </p>
-                <p className="color-grey">
-                  Thank you for considering Pathway Education for your academic
-                  and career needs. We look forward to helping you achieve your
-                  full potential.
+                  Pathway Education is an expert migration service provider with
+                  offices in Melbourne, Adelaide, Gold Coast, Sunshine, and
+                  Tasmania. Our team of professional educational consultants and
+                  migration service representatives has been serving clients
+                  from all over the world for decades. As one of the most
+                  affordable registered migration agents in Melbourne, we offer
+                  efficient consulting and various types of visa processing
+                  services to ensure a secured and smooth travel and living
+                  experience for our clients in Australia.
                 </p>
               </div>
             </div>

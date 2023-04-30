@@ -14,43 +14,47 @@ const Coaching = () => {
               >
                 <h2 className="color-theme">Coaching</h2>
                 <p className="lead color-black">
-                  Welcome to Pathway Education!
+                  Expert Language Coaching and Training Services at Pathway
+                  Education
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we believe in providing exceptional
-                  services to students and educational institutions. Our mission
-                  is to assume leadership in the student consultancy sector and
-                  set an example for others to follow. We are dedicated to
-                  offering the student community and educational institutions
-                  comprehensive, skilled, and professional support to sustain
-                  the excellence of higher education.
+                  At Pathway Education, we offer high-quality coaching and
+                  training services for various language proficiency tests,
+                  including IELTS, PTE, and Japanese Language. Our team of
+                  experienced and qualified trainers has helped numerous
+                  students achieve their desired scores in these exams and
+                  fulfill their academic and professional goals.
                 </p>
                 <p className="color-grey">
-                  We understand that choosing a career path and finding the
-                  right educational institution can be a daunting task. That's
-                  why our team of experts is here to help guide you every step
-                  of the way. Our services include career counseling, academic
-                  advising, and assistance with university admissions.
+                  Our IELTS and PTE coaching services are designed to equip
+                  students with the necessary skills and strategies to excel in
+                  the exams. We provide comprehensive training materials, mock
+                  tests, and personalized feedback to help our students identify
+                  their strengths and weaknesses and improve their performance
+                  in each section of the exams.
                 </p>
                 <p className="color-grey">
-                  We take pride in our personalized approach to every student's
-                  needs. We work closely with our clients to understand their
-                  goals, strengths, and challenges to provide tailored guidance
-                  and support. Our team consists of highly trained and
-                  experienced professionals who are committed to helping you
-                  achieve your academic and career goals.
+                  In addition to language proficiency tests, we also offer
+                  English language coaching for individuals looking to enhance
+                  their language skills for personal or professional reasons.
+                  Our training programs cover various aspects of the English
+                  language, including grammar, vocabulary, pronunciation, and
+                  communication skills.
                 </p>
                 <p className="color-grey">
-                  At Pathway Education, we value integrity, professionalism, and
-                  excellence. We are committed to maintaining the highest
-                  standards in all our services and interactions with clients.
-                  We believe in building long-lasting relationships with our
-                  clients based on trust, respect, and mutual understanding.
+                  We also offer Japanese language coaching for students
+                  interested in learning the language for academic or career
+                  purposes. Our trainers are highly experienced in teaching
+                  Japanese to students of all levels, from beginner to advanced,
+                  and provide comprehensive training materials and practice
+                  sessions to help students master the language.
                 </p>
                 <p className="color-grey">
-                  Thank you for considering Pathway Education for your academic
-                  and career needs. We look forward to helping you achieve your
-                  full potential.
+                  At Pathway Education, we are committed to providing
+                  high-quality language coaching and training services that meet
+                  the unique needs and goals of our students. Choose us for your
+                  language proficiency needs and let us help you achieve your
+                  academic and professional goals.
                 </p>
               </div>
             </div>
