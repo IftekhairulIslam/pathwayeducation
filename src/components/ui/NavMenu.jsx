@@ -1,5 +1,5 @@
 import React from "react";
-import { useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 
 const NavMenu = ({ title, link, subMenus = [], isInAside }) => {
   const location = useLocation();
@@ -10,9 +10,9 @@ const NavMenu = ({ title, link, subMenus = [], isInAside }) => {
     <li
       className={!isInAside ? subMenuClass + " " + currentClass : currentClass}
     >
-      <a href={link} className={isInAside ? subMenuClass : ""}>
+      <Link to={link} className={isInAside ? subMenuClass : ""}>
         {title}
-      </a>
+      </Link>
 
       {subMenus.length > 0 && (
         <ul className="sub-menu">
@@ -23,7 +23,7 @@ const NavMenu = ({ title, link, subMenus = [], isInAside }) => {
               }
               key={sKey}
             >
-              <a href={sMenu.link}>{sMenu.title}</a>
+              <Link to={sMenu.link}>{sMenu.title}</Link>
             </li>
           ))}
         </ul>

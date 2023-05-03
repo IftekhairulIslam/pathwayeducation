@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import { logoLight } from "./../../../utilities/imageSources";
 
 const Footer = () => {
@@ -8,9 +9,9 @@ const Footer = () => {
         <div className="row flex">
           <div className="column width-4">
             <div className="widget">
-              <a className="widget-title weight-light" href="/">
+              <Link className="widget-title weight-light" to="/">
                 <img src={logoLight} alt="Pathway Eduction" />
-              </a>
+              </Link>
             </div>
           </div>
 
@@ -34,22 +35,22 @@ const Footer = () => {
               <h4 className="widget-title">More Links</h4>
               <ul>
                 <li>
-                  <a href="about">About Us</a>
+                  <Link to="/about">About Us</Link>
                 </li>
                 <li>
-                  <a href="admission">Admission</a>
+                  <Link to="/admission">Admission</Link>
                 </li>
                 <li>
-                  <a href="migration">Migration</a>
+                  <Link to="/migration">Migration</Link>
                 </li>
                 <li>
-                  <a href="coaching">Coaching</a>
+                  <Link to="/coaching">Coaching</Link>
                 </li>
                 <li>
-                  <a href="travels">Tourist & Travels</a>
+                  <Link to="/travels">Tourist & Travels</Link>
                 </li>
                 <li>
-                  <a href="contact">Contact Us</a>
+                  <Link to="/contact">Contact Us</Link>
                 </li>
               </ul>
             </div>
