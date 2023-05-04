@@ -9,6 +9,7 @@ export const slider1 = require("./../resources/home/slider-1.jpg");
 export const about = require("./../resources/home/about-us.png");
 export const presence = require("./../resources/home/presence.png");
 export const profileAvatar = require("./../resources/home/profile-avatar.webp");
+export const mapMarker = require("./../resources/home/map-marker.png");
 
 /* Services */
 export const services = {

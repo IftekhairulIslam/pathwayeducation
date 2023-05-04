@@ -15,14 +15,34 @@ code {
 html {
   scroll-behavior: smooth;
 }
-
+/* ****************** */
 /* Theme Override CSS */
+/* ****************** */
 .bkg-theme {
   background-color: #141543;
   border-color: #141543;
 }
 .color-theme {
   color: #141543;
+}
+.bkg-hover-theme:hover {
+  border-color: #141543;
+  background-color: #141543;
+}
+/* Header */
+.header.header-transparent .v-align-middle > .button:not(.nav-icon),
+.header.header-transparent .dropdown > .button:not(.nav-icon) {
+  background: transparent;
+  border-color: #fff;
+  color: #fff;
+}
+.header.header-background .v-align-middle > .button:not(.nav-icon),
+.header.header-background .dropdown > .button:not(.nav-icon),
+.header .v-align-middle > .button:not(.nav-icon),
+.header .dropdown > .button:not(.nav-icon) {
+  background: #232323;
+  border-color: transparent;
+  color: #fff;
 }
 .header-background .v-align-middle > .button:not(.nav-icon):hover,
 .header-background .dropdown > .button:not(.nav-icon):hover {
@@ -36,4 +56,10 @@ html {
   background-color: #141543;
   border-color: transparent;
   color: #fff;
+}
+
+/* Testimonial */
+blockquote.large,
+blockquote.large p {
+  font-size: 1.6rem;
 }

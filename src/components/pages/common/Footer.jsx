@@ -19,8 +19,8 @@ const Footer = () => {
             <div className="widget">
               <h4 className="widget-title">Address</h4>
               <p className="no-margin-bottom">
-                House-08 (Monico Qulthum), 5th Floor, Progoti Sarani, <br />
-                Baridhara (J Block), Notun Bazar, Dhaka-1212, <br />
+                House # 8, Road # 3 (Beside Main Road )Progoti Sarani, <br />
+                Baridhara "J" Block, Notun Bazar, Dhaka-1206, <br />
                 Dhaka Division, Bangladesh.
               </p>
               <p className="no-margin-bottom">+8801323299761, +8801886177303</p>

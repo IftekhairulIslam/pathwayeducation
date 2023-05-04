@@ -6,8 +6,8 @@ const Testimonials = () => {
     <div className="section-block">
       <div className="row full-width collapse">
         <div className="column width-12 center">
-          <h3>Reviews</h3>
-          <h1 className="mb-50">By Our Students</h1>
+          <h4>Reviews</h4>
+          <h2 className="mb-50">By Our Students</h2>
           <div className="tm-slider-container testimonial-slider" data-nav-dark>
             <ul className="tms-slides">
               <li className="tms-slide" data-image>

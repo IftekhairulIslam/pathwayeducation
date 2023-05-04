@@ -4,6 +4,7 @@ import OurPresenceSection from "./sections/OurPresenceSection";
 import AboutSection from "./sections/AboutSection";
 import Testimonials from "./sections/Testimonials";
 import Partners from "./sections/Partners";
+import MapSection from "../common/sections/MapSection";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <AboutSection />
       <Testimonials />
       <Partners />
+      <MapSection />
     </div>
   );
 };

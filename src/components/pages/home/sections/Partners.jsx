@@ -7,7 +7,7 @@ const Partners = () => {
       <div className="section-block replicable-content pb-20">
         <div className="row">
           <div className="column width-12 center">
-            <h3 className="mb-20">Our Partners</h3>
+            <h2 className="mb-20">Our Partners</h2>
           </div>
         </div>
       </div>
